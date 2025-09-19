@@ -347,6 +347,12 @@
   color: #000;
 }
 
+.footer__address a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 .footer__menu {
   justify-self: center;
 }
@@ -383,4 +389,3 @@
   height: 48px;
   display: block;
 }
-
