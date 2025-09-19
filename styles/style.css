@@ -82,14 +82,6 @@
   text-decoration: none;
 }
 
-.header__address {
-  justify-self: start;
-  margin-left: 184px;
-  max-width: 240px;
-  max-height: 98px;
-  align-items: flex-start;
-}
-
 .cover {
   position: relative;
   min-height: 757px;
